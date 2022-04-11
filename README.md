@@ -1,14 +1,14 @@
 # Summer Kindness Camp
 
-[View the live project here](https://iama3191.github.io/Summer-kindness-camp/)
+[View the live project here](https://iama3191.github.io/Kindness-camp/)
 
-## ABOUT THE PROJECT 
+## ABOUT THE PROJECT
 
 Summer Kindness Camp is an unreal project created for my PP1 with Code Institute.
-Summer Kindness Camp is a project for children focused on helping them bring more kindness and love to those in need while participating in social programs for a week during the summer. Each day targets a different concern with multiple activities inside and outside the facilities in Zagreb, Croatia. 
+Summer Kindness Camp is a project for children focused on helping them bring more kindness and love to those in need while participating in social programs for a week during the summer. Each day targets a different concern with multiple activities inside and outside the facilities in Zagreb, Croatia.
 The main goal of this project is for kids to get knowledge of social problems in the world and how they can make a difference even with a small gesture.
 
-The social programs are: 
+The social programs are:
 
 1. Senior's Program focuses on seniors living in nursing homes.
 
@@ -25,7 +25,7 @@ The social programs are:
 ## ABOUT THE WEBSITE
 
 
-The one-page website is a colorful and straightforward experience for parents searching for a new and meaningful opportunity for their kids to grow up during the summer. It includes a top menu for easy navigation, general information about the camp, a description of the social programs with a specific schedule, a gallery's photos of different events and activities, a contact form, and a footer with social media information. 
+The one-page website is a colorful and straightforward experience for parents searching for a new and meaningful opportunity for their kids to grow up during the summer. It includes a top menu for easy navigation, general information about the camp, a description of the social programs with a specific schedule, a gallery's photos of different events and activities, a contact form, and a footer with social media information.
 
 ## INDEX
 
@@ -69,13 +69,13 @@ What a user may expect:
 
 * Easily navigation through the website.
 
-* Consistent design and presentation in all screen sizes. 
+* Consistent design and presentation in all screen sizes.
 
 * Links work as expected.
 
-* Information about the camp and a detailed schedule. 
+* Information about the camp and a detailed schedule.
 
-* A way to get in contact for more details. 
+* A way to get in contact for more details.
 
 
 What a user may want:
@@ -92,7 +92,7 @@ The one-page website has:
 
 *    Home section:  With a hero image and the title of the project.
 
-* About section: with a description of the camp, for whom the camp is, and the main goal. 
+* About section: with a description of the camp, for whom the camp is, and the main goal.
 
 *   Program section: General information of each social Program and a typical daily schedule.
 
@@ -105,11 +105,11 @@ The one-page website has:
 
 ### IMAGES
 
-The hero-image and the form's background have been chosen because they are joyful, bright, and colorful like the summer. They have colors in common that are used for the general style of the website without distracting the user and complementing themselves in a very playful way. 
+The hero-image and the form's background have been chosen because they are joyful, bright, and colorful like the summer. They have colors in common that are used for the general style of the website without distracting the user and complementing themselves in a very playful way.
 
 ### COLOR SCHEME
 
-The color scheme is based on the two most significant images on the website (the hero image and the form image). The Safety Yellow, the Safety Orange Blaze Orange, and the Medium Aquamarine make a perfect match for bringing the website to life. The Ivory is for the body's background for a simple look, and the shade Rich Black FOGRA 39 is for the font. 
+The color scheme is based on the two most significant images on the website (the hero image and the form image). The Safety Yellow, the Safety Orange Blaze Orange, and the Medium Aquamarine make a perfect match for bringing the website to life. The Ivory is for the body's background for a simple look, and the shade Rich Black FOGRA 39 is for the font.
 
 <img src="documentation/color-scheme.png">
 
@@ -132,7 +132,7 @@ Fonts 'Lato' and 'Sniglet' were imported from Google Fonts. 'Sniglet' is used in
 
     * [Google Fonts:](https://fonts.google.com/) Was used to import fonts 'Lato' and 'Sniglet.'
 
-    * [Coolors:](https://coolors.co/) Was used to find the color scheme from a photo and check the color contrast between the background and the text. 
+    * [Coolors:](https://coolors.co/) Was used to find the color scheme from a photo and check the color contrast between the background and the text.
 
     * [Font Awesome:](https://fontawesome.com/): Was used to add icons for a more playful website.
 
@@ -140,7 +140,7 @@ Fonts 'Lato' and 'Sniglet' were imported from Google Fonts. 'Sniglet' is used in
 
     * [FreeConvert:](https://www.freeconvert.com/) Was used to convert images from JPG to WEBP.
 
-    * [Formspree](https://help.formspree.io/hc/en-us) Was used to give the form an action attribute. 
+    * [Formspree](https://help.formspree.io/hc/en-us) Was used to give the form an action attribute.
 
     * [Favicon Generator:](https://favicon.io/favicon-generator/) Was used to create the favicon for the tab.
 
@@ -153,21 +153,21 @@ Fonts 'Lato' and 'Sniglet' were imported from Google Fonts. 'Sniglet' is used in
     ## FEATURES
 
 * ### CALL TO ACTION  
-   
+
    I made the call to action visible to get the user's attention.
 
     - For the navigation bar,  when the mouse hovers the word in the hamburger menu,  the color changes, but when it is on wider screens,  the word is underlined.
 
     - When the user focuses on any form input, the background's color changes, and for the "REQUEST INFO" button, the background's color changes when the mouse hovers over.
 
-    - The background's color changes when the mouse hovers over the social media icons. 
+    - The background's color changes when the mouse hovers over the social media icons.
 
     - The social media links open in a new tab for better UX.
 
 
  * ### NAVIGATION BAR
 
-A hamburger menu for small screens until 800px was created with CSS. It is shown in a column divided into sections. For bigger screens, the navigation bar changes into a horizontal display of the same areas in the same order: Home, About, Program, Gallery, and Contact. The navigation bar has a sticky position to avoid scrolling up and down. 
+A hamburger menu for small screens until 800px was created with CSS. It is shown in a column divided into sections. For bigger screens, the navigation bar changes into a horizontal display of the same areas in the same order: Home, About, Program, Gallery, and Contact. The navigation bar has a sticky position to avoid scrolling up and down.
 <img src="documentation/menu-bigger-screens.png">
  <br>
 <img src="documentation/menu-smaller screens.png">
@@ -187,15 +187,15 @@ A hamburger menu for small screens until 800px was created with CSS. It is shown
 * ### PROGRAM SECTION
     This section also has two parts: The first one features five cards with each social Program and its explanation. Every title has an icon to add a little bit of fun, and in the top-right corner is the number of the day on which the activity is happening to give the user more information in a playful way.
 
-    The second part features a table with the specific schedule of the "TYPICAL DAY" at the camp. It's divided into three columns: time, activity, and description. 
+    The second part features a table with the specific schedule of the "TYPICAL DAY" at the camp. It's divided into three columns: time, activity, and description.
 
-    The table's width changes for every screen size while maintaining its general structure. 
+    The table's width changes for every screen size while maintaining its general structure.
 
      <img src="documentation/program-section.png">
 
 * ### GALLERY SECTION
 
-    This section features 12 photos arranged into one column for smaller devices (from 320px), two columns for medium devices (550px), and three for wider screens (from 1270px). 
+    This section features 12 photos arranged into one column for smaller devices (from 320px), two columns for medium devices (550px), and three for wider screens (from 1270px).
 
 * From 320px devices <br>
     <img src="documentation/gallery-1-column.png">
@@ -231,7 +231,7 @@ A hamburger menu for small screens until 800px was created with CSS. It is shown
     <img src="documentation/testing/css-validator.png" style="display:block; margin-left:auto; margin-right:auto;">
    <br>
     <img src="documentation/testing/warning-css-validator.png">
-  
+
 
 2. BROWSERS
 
@@ -248,7 +248,7 @@ The website's presentation doesn't change in the browsers except for the font in
 
 Google Chrome <br>
     <img src="documentation/testing/google-desktop-font.png">
-    
+
 
 Mozilla Firefox <br>
     <img src="documentation/testing/firefox-desktop-font.png">
@@ -264,7 +264,7 @@ I used Lighthouse for testing: Performance, Best Practices, Accessibility, and S
 
   <img src="documentation/testing/table-performance-lighthouse.png">
 
-The previous chart shows the results from Lighthouse from the different browsers, and the comparison before and after adding the 
+The previous chart shows the results from Lighthouse from the different browsers, and the comparison before and after adding the
 
    <img src="documentation/testing/main-suggestion-devtools.png">
 
@@ -280,17 +280,17 @@ These tests are from regular navigation tabs. In the incognito mode, results wer
 * Microsoft Edge <br>
     <img src="documentation/testing/edge-mobile-preconnect.png">
 
-The Grammarly extension causes the result for Google Chrome accessibility of 92. 
+The Grammarly extension causes the result for Google Chrome accessibility of 92.
     <img src="documentation/testing/google-chrome-grammarly.png">
 
 Google Chrome was the only browser that warned about how extensions could affect the website's performance. For these reasons, the Accessibility score changed in private mode to 100.
- 
+
 <img src="documentation/testing/google-chrome-mobile.png">
     <br>
 
 4. FORM TESTING
 
-As I mentioned before, the form has method= "post"  and action="https://formspree.io/f/xpzbqalv" for collecting data. 
+As I mentioned before, the form has method= "post"  and action="https://formspree.io/f/xpzbqalv" for collecting data.
 So, I proceeded to test the form by submitting my personal information, and it worked properly.
 
 1. I filled in the requested inputs and click "REQUEST INFO."
@@ -310,10 +310,10 @@ I wrote the CSS code first for small screen devices (from 320px), specifically f
 My mentor Brian Macharia tested in his computer and looked good. Probably this is a Google Chrome issue.
 
 <img src="documentation/320px-without-overflow.png">
- 
+
 ## DEPLOYMENT
 
-* ### HOW THIS SITE WAS DEPLOYED 
+* ### HOW THIS SITE WAS DEPLOYED
 
 1. In the GitHub repository of the website, go to the "Settings", and click.
 
@@ -323,7 +323,7 @@ My mentor Brian Macharia tested in his computer and looked good. Probably this i
 
 4. Optionally select the folder in the following dropdown menu.
 
-5. Save and automatically the site is published. 
+5. Save and automatically the site is published.
 
 <img src="documentation/website-deployed.png">
 
@@ -350,7 +350,7 @@ My mentor Brian Macharia tested in his computer and looked good. Probably this i
 
 6. Type git clone, and then paste the URL you copied earlier.
 
-7. To make changes to the website: 
+7. To make changes to the website:
 
     7.1. Update the code as needed.
 
@@ -358,14 +358,14 @@ My mentor Brian Macharia tested in his computer and looked good. Probably this i
 
     7.3. Add <em>git commit -m "brief description of the update"</em>
 
-    7.4. Add <em> git push </em> 
+    7.4. Add <em> git push </em>
 
     Any updates commited to the Main Branch inmediately reflect in the hosted site.
 ## CREDITS
 
 * ### CONTENT
 
-Irene Mendez created and edited all the text shown on the website using [Grammarly](https://app.grammarly.com/). 
+Irene Mendez created and edited all the text shown on the website using [Grammarly](https://app.grammarly.com/).
 
 * ### CODE
 
@@ -390,7 +390,5 @@ Irene Mendez created and edited all the text shown on the website using [Grammar
  * My mentor Brian Macharia guided me in all my concerns and introduced me to the CSS Evangelist, Kevin Powell.  He helped me understand how I can create a hamburger menu without JavaScript.
 
   ## Disclaimer
-  
+
 The content of this Website is for educational purposes only.
-
-
